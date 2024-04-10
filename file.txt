@@ -560,7 +560,7 @@ and then push using the remote name
 
 G:\бельчич\3\git>git config --global user.name "shipkovandrej"
 
-G:\бельчич\3\git>git config --global user.email "shipkovandrej@yandex.ru"
+G:\бельчич\3\git>git config --global user.email "shipkovandrej@example"
 
 G:\бельчич\3\git>git remote add origin https://github.com/shipkovandrej/poks_44_Belchich.git
 
